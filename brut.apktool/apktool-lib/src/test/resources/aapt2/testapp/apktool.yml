@@ -9,7 +9,8 @@ packageInfo:
 versionInfo:
   versionCode: '1'
   versionName: '1.0'
-compressionType: false
+featureFlags:
+  brut.feature.flag: true
 doNotCompress:
 - assets/0byte_file.jpg
 sparseResources: false
